@@ -1,0 +1,15 @@
+F:\projectss\firstproject\firstproject\bin\Debug\firstproject.exe.config
+F:\projectss\firstproject\firstproject\bin\Debug\firstproject.exe
+F:\projectss\firstproject\firstproject\bin\Debug\firstproject.pdb
+F:\projectss\firstproject\firstproject\obj\Debug\firstproject.csprojAssemblyReference.cache
+F:\projectss\firstproject\firstproject\obj\Debug\MainWindow.g.cs
+F:\projectss\firstproject\firstproject\obj\Debug\App.g.cs
+F:\projectss\firstproject\firstproject\obj\Debug\firstproject_MarkupCompile.cache
+F:\projectss\firstproject\firstproject\obj\Debug\firstproject_MarkupCompile.lref
+F:\projectss\firstproject\firstproject\obj\Debug\MainWindow.baml
+F:\projectss\firstproject\firstproject\obj\Debug\firstproject.g.resources
+F:\projectss\firstproject\firstproject\obj\Debug\firstproject.Properties.Resources.resources
+F:\projectss\firstproject\firstproject\obj\Debug\firstproject.csproj.GenerateResource.cache
+F:\projectss\firstproject\firstproject\obj\Debug\firstproject.csproj.CoreCompileInputs.cache
+F:\projectss\firstproject\firstproject\obj\Debug\firstproject.exe
+F:\projectss\firstproject\firstproject\obj\Debug\firstproject.pdb
